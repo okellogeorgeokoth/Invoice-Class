@@ -1,0 +1,12 @@
+C:\Users\George\Documents\Visual Studio 2019\Projects\Projects\Invoice class\obj\Debug\Invoice class.vbprojAssemblyReference.cache
+C:\Users\George\Documents\Visual Studio 2019\Projects\Projects\Invoice class\obj\Debug\Invoice_class.Form1.resources
+C:\Users\George\Documents\Visual Studio 2019\Projects\Projects\Invoice class\obj\Debug\Invoice_class.Resources.resources
+C:\Users\George\Documents\Visual Studio 2019\Projects\Projects\Invoice class\obj\Debug\Invoice class.vbproj.GenerateResource.cache
+C:\Users\George\Documents\Visual Studio 2019\Projects\Projects\Invoice class\obj\Debug\Invoice class.vbproj.CoreCompileInputs.cache
+C:\Users\George\Documents\Visual Studio 2019\Projects\Projects\Invoice class\bin\Debug\Invoice class.exe.config
+C:\Users\George\Documents\Visual Studio 2019\Projects\Projects\Invoice class\bin\Debug\Invoice class.exe
+C:\Users\George\Documents\Visual Studio 2019\Projects\Projects\Invoice class\bin\Debug\Invoice class.pdb
+C:\Users\George\Documents\Visual Studio 2019\Projects\Projects\Invoice class\bin\Debug\Invoice class.xml
+C:\Users\George\Documents\Visual Studio 2019\Projects\Projects\Invoice class\obj\Debug\Invoice class.exe
+C:\Users\George\Documents\Visual Studio 2019\Projects\Projects\Invoice class\obj\Debug\Invoice class.xml
+C:\Users\George\Documents\Visual Studio 2019\Projects\Projects\Invoice class\obj\Debug\Invoice class.pdb
